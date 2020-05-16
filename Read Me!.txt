@@ -1,0 +1,16 @@
+1. íÌÈ Úáíß ÊÍãíá ÈÑäÇãÌ Python
+ÇáÑÇÈØ :-
+https://www.python.org/
+
+2. íÌÈ ÊËÈíÊ ÈÚÖ ÇáÃÇãÑ ãä ÎáÇá CMD ÊÌÏå İí ŞÇÆãÉ ÅÈÏÃ İí ÇáÈÍË 
+ÇáÃæÇãÑ :-
+pip install pygame
+pip install --upgrade arabic-reshaper
+pip install python-bidi
+
+3. ãáİ ÇááÚÈÉ ÈÅÓã Main
+
+æÔßÑÇ áßã Úáì ÊÌÑÈÉ ÇááÚÈÉ .
+
+ÊÓÊØíÚæä ÇáÊæÇÕá ãÚí Úáì ÍÓÇÈí Úáì ÊæíÊÑ :-
+Omar41Saad
